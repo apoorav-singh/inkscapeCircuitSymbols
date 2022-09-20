@@ -49,7 +49,7 @@ Installation procedures for latest and older versions are described below.
 - You will need [inkscapeMadeEasy](https://github.com/fsmMLK/inkscapeMadeEasy) plugin installed. Check the compatibility table above to know the version you need.
 - In case you are using LaTeX (MikTeX). Open MikTeX console and select settings. You may select "Always" to installed any missing packages automatically (as shown in the image below) if needed run the plugin.
 
-<img src="docs/images/miktex_always.png" width="450px"/>
+<img src="docs/images/miktex_always.png" width="600px"/>
 
 ## Installation procedure (v1.0 only)
 
